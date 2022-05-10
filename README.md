@@ -1,4 +1,4 @@
- ** Disclaimer **: The contents of this were copied from the official Coderetreat website: [https://www.coderetreat.org/the-workshop/](https://www.coderetreat.org/the-workshop/)
+ **Disclaimer**: The contents of this were copied from the official Coderetreat website: [https://www.coderetreat.org/the-workshop/](https://www.coderetreat.org/the-workshop/)
 
 
 # Code retreat
@@ -100,7 +100,7 @@ The most common challenge with Coderetreat is arriving without working programmi
 - favorite test framework(s) installed (NUnit, XUnit, Microsoft Test Framework, Jest, Mocha, Chai etc.)
 Since the group will work in groups of at least two, it is not necessary that everyone have a working set of tools, but if everyone tries, it’s likely that each pair can have a working programming environment.
 
-** Disclaimer **: The contents of this were copied from the official Coderetreat website: [https://www.coderetreat.org/the-workshop/](https://www.coderetreat.org/the-workshop/)
+**Disclaimer**: The contents of this were copied from the official Coderetreat website: [https://www.coderetreat.org/the-workshop/](https://www.coderetreat.org/the-workshop/)
 
 
 
